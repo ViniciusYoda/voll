@@ -5,7 +5,7 @@
 
 Este projeto faz parte da escola Front-end e tem como objetivo ensinar a construção de uma página de área administrativa utilizando React com Typescript e as bibliotecas Styled-Components, MUI e Recharts.
 
-## Funcionalidades do projeto
+## Funcionalidades do projeto 
 
 A página de área administrativa terá as seguintes funcionalidades:
 
